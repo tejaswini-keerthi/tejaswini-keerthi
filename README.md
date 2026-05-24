@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tejaswini Keerthi 👋</h1>
 
 <p align="center">
-  Graduate Student @ Northeastern University · Portland, ME <br>
+  Graduate Student @ Northeastern University <br>
   Seeking Co-op/Internship in Data Engineering · ML Engineering · AI Engineering · Backend · SDE · Data Science
 </p>
 
