@@ -15,7 +15,6 @@ I'm a Data and AI engineering enthusiast with a passion for building end-to-end 
 - 🔭 Currently working on: LLM pipelines, RAG systems, and agent frameworks
 - 🌱 Learning: LangChain · LangGraph · PyTorch · Kubernetes
 - 📄 Published research on pandemic financial prediction (INT-JECSE, 2022)
-- 🎵 Fun fact: I unwind with Krishna bhajas and stargazing 🌌
 
 ---
 
