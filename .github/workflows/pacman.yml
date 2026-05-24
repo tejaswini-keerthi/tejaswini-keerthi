@@ -9,8 +9,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: 786-soft/action-pacman-contribution-graph@v1.1.0
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github-user-name: tejaswini-keerthi
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-branch: pacman-output
+          github_user_name: tejaswini-keerthi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
