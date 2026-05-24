@@ -1,9 +1,26 @@
-<h1 align="center">Hi, I'm Tejaswini Keerthi 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Tejaswini!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20%7C%20ML%20%7C%20AI%20Engineer&descAlignY=55&descAlign=50"/>
+</p>
 
 <p align="center">
-  Graduate Student @ Northeastern University · Portland, ME <br>
-  Software Developer · Graduating May 2027 <br>
-  Seeking Co-op/Internship in Data Engineering · ML Engineering · AI Engineering · Backend · SDE
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6EC6F7&center=true&vCenter=true&width=600&lines=Graduate+Student+%40+Northeastern;Data+%7C+ML+%7C+AI+Engineer;Building+intelligent+systems+%F0%9F%A4%96;Open+to+Co-op+%2F+Internship+roles!" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejaswini-keerthi/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  </a>
 </p>
 
 ---
@@ -65,11 +82,13 @@ I'm a data and AI engineering enthusiast with a passion for building end-to-end 
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/tejaswini-keerthi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejaswini-keerthi/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="mailto:keerthi.t@northeastern.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your@email.com">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
