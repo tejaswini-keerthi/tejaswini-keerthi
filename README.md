@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswini-keerthi/tejaswini-keerthi/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaswini-keerthi/tejaswini-keerthi/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tejaswini-keerthi/tejaswini-keerthi/pacman-output/pacman-contribution-graph.svg">
+</picture>
 <!--
 **tejaswini-keerthi/tejaswini-keerthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
