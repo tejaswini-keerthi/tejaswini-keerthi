@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Tejaswini Keerthi 👋</h1>
 
 <p align="center">
-  Graduate Student @ Northeastern University · Roux Institute, Portland, ME <br>
-  MPS in Analytics · Applied Machine Intelligence · Graduating Dec 2026 <br>
-  Seeking Co-op/Internship in Data Engineering · ML Engineering · AI Engineering · Backend · SDE
+  Graduate Student @ Northeastern University · Portland, ME <br>
+  Seeking Co-op/Internship in Data Engineering · ML Engineering · AI Engineering · Backend · SDE · Data Science
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a data and AI engineering enthusiast with a passion for building end-to-end pipelines, intelligent systems, and scalable backends. From forecasting beer sales at Allagash Brewing to building a disk-based relational database engine from scratch, I love turning messy data into real decisions.
+I'm a Data and AI engineering enthusiast with a passion for building end-to-end pipelines, intelligent systems, and scalable backends. From forecasting beer sales at Allagash Brewing to building a disk-based relational database engine from scratch, I love turning messy data into real decisions.
 
 - 🎓 MPS Analytics @ Northeastern University (Roux Institute)
 - 🔭 Currently working on: LLM pipelines, RAG systems, and agent frameworks
@@ -64,17 +63,3 @@ I'm a data and AI engineering enthusiast with a passion for building end-to-end 
 
 ---
 
-## 📊 My Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaswini-keerthi/tejaswini-keerthi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaswini-keerthi/tejaswini-keerthi/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake graph" src="https://raw.githubusercontent.com/tejaswini-keerthi/tejaswini-keerthi/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/tejaswini-keerthi">LinkedIn</a> ·
-  <a href="mailto:your@email.com">Email</a>
-</p>
